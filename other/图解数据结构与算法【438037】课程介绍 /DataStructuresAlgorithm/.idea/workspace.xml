@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="643764b6-8c23-40ff-b9f1-1ffba85b9444" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DataStructuresAlgorithm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="MainMap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/tenxun/MainMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="34" selection-start-line="6" selection-start-column="7" selection-end-line="9" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/souhu/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/kuaishou/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/xiaomi/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/zhaoshang/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>delNode</find>
+      <find>Order</find>
+      <find>contains</find>
+      <find>add</find>
+      <find>rightRotate</find>
+      <find>search</find>
+      <find>minimum</find>
+      <find>removeMax</find>
+      <find>remo</find>
+      <find>val</find>
+      <find>e</find>
+      <find>.e</find>
+      <find>reversetList</find>
+      <find>Node</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/stackandqueue/queue/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/linked/SingleLikedList.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/linked/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/linked/leetcode203/Solution.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/linked/CircleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/linked/leetcode203/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/stackandqueue/stack/ArrayStack.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/stackandqueue/stack/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/hash/Solution.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/hash/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/hash/Student.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/hash/HashTable.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/ChkBloodType.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/ChkBloodTypeSwitch.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/ChkBloodTypeMap.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/a_blood/ChkBloodTypeMap.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/a_blood/ChkBloodTypeArray.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/b_baidu/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/c_aiqiyi/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/d_wangyi.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/d_wangyi/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/e_tengxun/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/e_tengxun/Gift.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/e_tengxun/GiftMap.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/e_tengxun/GiftArray.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/f_souhu/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/i_sougou/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/j_kuaishou.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/j_kuaishou/j_kuaishou.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/j_kuaishou/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/j_kuaishou/Main_Array.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/j_kuaishou/Main_Heap.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/k_zhaoshang/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/h_xiaomi/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/g_meituan/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/g_pinduoduo/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/qunawang/MainSwitch.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/qunawang/MainMap.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/qunawang/MainArray.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/baidu/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/aiqiyi/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/wangyi/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/pinduoduo/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/tenxun/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/tenxun/MainArray.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/tenxun/MainMap.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/tenxun/MianArray.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/souhu/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/kuaishou/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/xiaomi/Main.java" />
+        <option value="$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/zhaoshang/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DataStructuresAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructuresAlgorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructuresAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructuresAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructuresAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructuresAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="csdn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructuresAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructuresAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="csdn" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructuresAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructuresAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="csdn" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="dsa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructuresAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructuresAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="csdn" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="dsa" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructuresAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructuresAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="csdn" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="dsa" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructuresAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructuresAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="csdn" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="dsa" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaomi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructuresAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructuresAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="csdn" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="dsa" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="zhaoshang" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/workspace/DataStructuresAlgorithm/src/csdn/cn/dsa/stackandqueue/queue/Queue.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Play-with-Data-Structures-master" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\DataStructuresAlgorithm\src\csdn\cn\dsa\linked\leetcode203" />
+      <recent name="D:\workspace\DataStructuresAlgorithm\src\csdn\cn\dsa\linked" />
+      <recent name="D:\workspace\DataStructuresAlgorithm\src\csdn\cn\dsa\linked\leetcode" />
+      <recent name="D:\workspace\DataStructuresAlgorithm\src\csdn\cn\dsa\stackandqueue\queue" />
+      <recent name="D:\workspace\DataStructuresAlgorithm\src\csdn\cn\dsa\stackandqueue" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="csdn.cn.dsa.algorithm.offer.qunawang" />
+      <recent name="csdn.cn.dsa.algorithm" />
+      <recent name="csdn.cn.dsa.graph" />
+      <recent name="csdn.cn.dsa" />
+      <recent name="csdn.cn.dsa.tree" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\DataStructuresAlgorithm\src\csdn\cn\dsa\stackandqueue\stack" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="643764b6-8c23-40ff-b9f1-1ffba85b9444" name="Default" comment="" />
+      <created>1594715414276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594715414276</updated>
+      <workItem from="1594715419932" duration="7031000" />
+      <workItem from="1500203910470" duration="24448000" />
+      <workItem from="1500451344904" duration="3737000" />
+      <workItem from="1500515304081" duration="47278000" />
+      <workItem from="1501208208573" duration="35171000" />
+      <workItem from="1501465660204" duration="7820000" />
+      <workItem from="1501725081377" duration="32000" />
+      <workItem from="1596420015122" duration="64000" />
+      <workItem from="1596522511889" duration="1901000" />
+      <workItem from="1596591620427" duration="9926000" />
+      <workItem from="1596629733612" duration="15627000" />
+      <workItem from="1596765562074" duration="4095000" />
+      <workItem from="1597025562160" duration="45362000" />
+      <workItem from="1597307699899" duration="6954000" />
+      <workItem from="1597629667679" duration="46000" />
+      <workItem from="1597629766128" duration="12528000" />
+      <workItem from="1597716098997" duration="9338000" />
+      <workItem from="1597891732641" duration="30198000" />
+      <workItem from="1598233705046" duration="1506000" />
+      <workItem from="1598251977334" duration="5000" />
+      <workItem from="1598325477690" duration="21434000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="284501000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5008197" side_tool="true" weight="0.22669104" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49918032" weight="0.42413163" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49915966" weight="0.32761437" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" sideWeight="0.50084037" side_tool="true" weight="0.29694656" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42047533" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32462686" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32462686" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49918032" visible="true" weight="0.42413163" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49915966" weight="0.32761437" />
+      <window_info id="Structure" order="1" sideWeight="0.50084037" side_tool="true" weight="0.29694656" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42047533" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5008197" side_tool="true" weight="0.22669104" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/csdn/cn/dsa/tree/AVLMain.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="43" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/stackandqueue/queue/LoopQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2610">
+          <caret line="95" column="30" selection-start-line="95" selection-start-column="30" selection-end-line="95" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/stackandqueue/queue/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/linked/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/linked/leetcode203/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/linked/CircleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="81" lean-forward="true" selection-start-line="78" selection-start-column="11" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/linked/leetcode203/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/linked/SingleLinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/linked/SingleLikedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" selection-start-line="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/array/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/stackandqueue/stack/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/stackandqueue/stack/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/stackandqueue/stack/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/queue/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="52" column="22" lean-forward="true" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="99" column="17" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/hash/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/hash/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/hash/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/hash/HashTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/Greedy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/a_qunaer/ChkBloodTypeMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/a_qunaer/ChkBloodTypeSwitch.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/a_qunaer/ChkBloodTypeArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/b_baidu/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/d_wangyi.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/c_aiqiyi/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/e_tengxun/GiftMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/e_tengxun/GiftArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/h_xiaomi.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/j_kuaishou/Main_Heap.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/k_zhaoshang/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/j_kuaishou/Main_Array.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/h_xiaomi/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/f_souhu/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/i_sougou/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/d_wangyi/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/g_pinduoduo/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="78" column="26" lean-forward="true" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/qunawang/MainMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="53" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/baidu/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/qunawang/MainSwitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="53" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/aiqiyi/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/wangyi/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="26" selection-start-line="26" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/tenxun/MainArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/pinduoduo/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/qunawang/MainArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1024">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/tenxun/MainMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="34" selection-start-line="6" selection-start-column="7" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/tenxun/MianArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/souhu/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/kuaishou/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/zhaoshang/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csdn/cn/dsa/algorithm/offer/xiaomi/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
