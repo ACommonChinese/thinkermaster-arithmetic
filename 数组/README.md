@@ -1,10 +1,12 @@
 # 数组
 
-当申请数组时, 计算机在内存中开辟了一段连续的地址.   
-
-因此它可以随机访问任意一个元素, 访问数组中做任意一个元素的时间复杂度为 $$O(1)$$   
+- 数组是内存中一片连续的内存空间, 当申请数组时, 计算机在内存中开辟了一段连续的地址, 因此它可以随机访问任意一个元素, 访问数组中做任意一个元素的时间复杂度为 $$O(1)$$   
+- 可以根据索引下标非常快地定位到某一个元素
+- 但是新增、删除元素的时候需要移动元素位置以保证其连续，效率会变低
 
 数组存在的问题: 在插入和删除元素的时候, 假设在插入元素时先要移动其他元素, 最好的情况是O(1), 最坏的情况是O(n), 然后再把要插入的元素插入进去, 同理, 删除也是一样   
+
+![](../images/26.png)
 
 来看一下Java中ArrayList在末尾添加元素的操作(时间复杂度O(1)):  
 
@@ -78,6 +80,43 @@ public E remove(int index) {
     elementData[--size] = null; // clear to let GC do its work
 
     return oldValue;
+}
+```
+
+分析: ArrayList和LinkedList的一些区别:
+- ArrayList: 底层是数组, 因此它查询快, 插入慢, 有移动的动作. 
+- LinkedList: 底层是链表, 在一定的范围内, 插入快, 查询慢
+
+但是,如果是在数组末尾添加数据,效率是很高的, 因为这个时候有需要移动ArrayList中的其他元素, 来看一个示例:  
+
+```java
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+
+public class Test1 {
+    public static void main(String[] args) {
+        addLinkedList();
+        addArrayList();
+    }
+
+    private static void addLinkedList() {
+        long begin = System.currentTimeMillis();
+        List list = new LinkedList();
+        for (int i = 0; i < 800000; i++) {
+            list.add(i);
+        }
+        System.out.println("LinkedList time==" + (System.currentTimeMillis()-begin) + "ms"); // LinkedList time==40ms
+    }
+
+    private static void addArrayList() {
+        long begin = System.currentTimeMillis();
+        List list = new ArrayList();
+        for (int i = 0; i < 800000; i++) {
+            list.add(i);
+        }
+        System.out.println("ArrayList time==" + (System.currentTimeMillis()-begin) + "ms"); // ArrayList time==22ms
+    }
 }
 ```
 

@@ -1,14 +1,91 @@
 # 时间复杂度(Complexity)
 
+**度量算法的执行时间**  
+度量一个程序(算法)执行时间的两种方法:  
+- 事后统计法
+- 事前估算法
+
+- 可以通过统计某个算法的时间复杂度来度量方法的优越性    
+- 时间复杂度统计法属于事前估算法  
+
+**时间频度T(n)**
+- 一个算法花费的时间与算法中语句的执行次数成正比
+- 一个算法中的语句执行次数称为语句频度或时间频度, 记为T(n), n称为问题的规模
+
+**时间复杂度O(n)**   
+- 某个函数f(n), 使得当n趋近于无穷大时, T(n)/f(n)的极限值为不等于零的常数, 则称f(n)是T(n)的同数量级函数. 记作: T(n) = O(f(n))   
+- T(n)不同, 但时间复杂度可能相同
+- 称O(f(n))为算法的渐近时间复杂度, 简称时间复杂度
+
+**最坏时间复杂度**    
+- 最坏情况下的时间复杂度称最坏时间复杂度
+- 一般讨论的时间复杂度均是最坏情况下的时间复杂度
+- 最坏情况下的时间复杂度是算法在任何输入实例上运行时间的界限
+
+**平均时间复杂度**  
+- 平均时间复杂度是指所有可能的输入实例均以等概率出现的情况下该算法的运行时间
+- 平均时间复杂度和最坏时间复杂度是否一致, 和算法有关  
+
+**空间复杂度**  
+- 一个算法的空间复杂度(Space Complexity)定义为该算法所耗费的存储空间, 它也是问题规模n的函数
+- 空间复杂度是对一个算法在运行过程中临时占用存储空间大小的度量
+- 在做算法分析时, 更看重的是程序执行的速度
+- 一些缓存产品(redis, memcache)和算法(基数排序)本质就是用空间换时间  
+
+### 时间复杂度常用计算方式  
+
+示例:  
+```java
+public class Test {
+    public static void main(String[] args) {
+        //计算0+1+2+3+4+...+100
+        int sum = 0;
+        int end = 100;
+        //算法一
+        for (int i = 0; i <= end; i++) {
+            sum += i;
+        }
+        //算法二
+        sum = (1+end)*end/2;
+    }
+}
+
+- 算法一的时间频度T(n) = n + 1
+- 算法二的时间频度T(n) = 1
+- 根据时间频度可以推算时间复杂度
+```
+
+### 计算时间复杂度原则  
+
+1. 忽略常量项
+
+![](./images/4.png)  
+
+2. 忽略低次项  
+
+![](./images/5.png)  
+
+3. 忽略系数  
+
+![](./images/6.png) 
+
+4. 计算时间频度的方式 
+
+![](./images/7.png) 
+
 ### Big O notation  
 
-O(1): Constant Complexity 常数复杂度
-O(log n): Logarithmic Complexity 对数复杂度
-O(n): Linear Complexity 线性时间复杂度
-O(n^2): N square Complexity 平方
-O(n^3): N cubic Complexity 立方
-O(2^n): Exponential Growth 指数
-O(n!): Factorial阶乘
+- 常数阶 O(1): Constant Complexity
+- 对数阶 O(log n): Logarithmic Complexity 
+- 线性阶 O(n): Linear Complexity
+- 线性对数阶: O(nlog_2n)
+- 平方阶 O(n^2): N square Complexity
+- 立方阶 O(n^3): N cubic Complexity 
+- k次方阶: O(n^k)
+- 指数阶: O(2^n): Exponential Growth
+- O(n!): Factorial阶乘
+
+![](./images/8.png) 
 
 注: 常数系数不予考虑, 比如O(1)常数复杂度, 可能是2, 3, 4..., 而O(n), 可能是2n, 3n...
 
@@ -33,7 +110,6 @@ for (int i = 1; i <= n; i++) {
     System.out.println("Hey - I'm busy looking at: " + i);
 }
 ```
-
 
 **O(n^2)**
 ```java
@@ -143,4 +219,8 @@ public static long fabonacci_2(int n) {
 
 ![](images/3.png)
 
+-----------------------------
 
+![](images/9.png)
+![](images/10.png)
+![](images/11.png)
