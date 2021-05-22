@@ -65,7 +65,7 @@ public class BST <E extends Comparable<E>> {
     /**
      * 后序遍历, 左 > 右 > 父
      */
-    public void suffixOrder() {
+    public void postOrder() {
         postOrder(root);
     }
 
@@ -286,7 +286,7 @@ public void midOrder() {
  * 非递归后序遍历
  */
 public void postOrder(Node node) {
-    if (root == null) {
+    if (node == null) {
         return;
     }
     Stack<Node> stackA = new Stack<>();
