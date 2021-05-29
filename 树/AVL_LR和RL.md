@@ -414,7 +414,7 @@ public class AVL <E extends Comparable<E>> {
                 /**
                  node
                  /    \
-                 null  r
+                 l   null
                  */
                 Node leftNode = node.left;
                 node.left = null;
@@ -425,13 +425,14 @@ public class AVL <E extends Comparable<E>> {
             // 下面是第三种情况: 删除有两棵子树的节点
             // 需要找到要删除节点右子树中最小的节点(min)并替换到要删除的节点(n)
             /**
-             *  node既有左子树又有右子树删除n节点, 下面n是要删除的节点, m是min
+             *  node既有左子树又有右子树删除n节点, 下面n是要删除的节点,
+             *  这需要找到以n为根的树的右孩子中最小的节点, 假设: m是min
              *              p                              p
              *            /  \                          /   \
-             *           T1   n      m 是min节点      T1     m
+             *           T1   n      m 是min节点      T1      m
              *               / \   - - - - - - - ->         /  \
              *             T2  a                           T2  a
-             *                / \                              \
+             *                / \                               \
              *              m   T3                              T3
              */
             Node minNode = minNode(node.right);

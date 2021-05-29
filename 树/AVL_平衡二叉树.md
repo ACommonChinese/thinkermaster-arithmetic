@@ -1,5 +1,8 @@
 # 平衡二叉树AVL
 
+> From [Doc](https://www.geeksforgeeks.org/avl-tree-set-1-insertion/) AVL tree is a self-balancing Binary Search Tree (BST) where the difference between heights of left and right subtrees cannot be more than one for all nodes. 
+> [Doc](https://www.geeksforgeeks.org/avl-tree-set-1-insertion/) Most of the BST operations (e.g., search, max, min, insert, delete.. etc) take O(h) time where h is the height of the BST. The cost of these operations may become O(n) for a skewed Binary tree. If we make sure that height of the tree remains O(Logn) after every insertion and deletion, then we can guarantee an upper bound of O(Logn) for all these operations. The height of an AVL tree is always O(Logn) where n is the number of nodes in the tree
+
 平衡二叉树又被称为AVL树, AVL的名字取字发明者: G. M. Adelson-Velsky 和 E. M. Landis，他们在1962年的论文《An algorithm for the organization of information》中发表了它, 
 
 二叉搜索树BST的设计主要用于提高检索速度, 但是在比较极端的情况下, BST的检索效率很受影响, 比如:  
